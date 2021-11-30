@@ -3,7 +3,7 @@ const sections = document.querySelectorAll('.main-content')
 const formData = document.querySelectorAll('.form-input')
 const contactForm = document.getElementById('contactForm')
 
-const defaultPage = 0
+const defaultPage = 3
 
 let currentSection = sections[defaultPage]
 

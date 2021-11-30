@@ -2,7 +2,7 @@
   border: 0px solid black;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('.assets/OpenSans-Regular.ttf');
 
 html {
   height:100vh;
